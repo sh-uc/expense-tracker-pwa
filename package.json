@@ -37,3 +37,10 @@
     ]
   }
 }
+{
+  "homepage": "https://sh-uc.github.io/expense-tracker-pwa",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
