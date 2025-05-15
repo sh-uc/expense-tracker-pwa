@@ -1,1 +1,2 @@
+/* global serviceWorkerRegistration */
 serviceWorkerRegistration.register();

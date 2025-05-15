@@ -1,7 +1,7 @@
 {
   "name": "expense-tracker-pwa",
   "version": "0.1.0",
-  "private": false,
+  "private":false,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -38,8 +38,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://sh-uc.github.io/expense-tracker-pwa",
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
-  }
+  "homepage": "https://sh-uc.github.io/expense-tracker-pwa"
 }
